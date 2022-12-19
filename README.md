@@ -39,7 +39,7 @@
 - Berikut adalah contoh untuk satu pengecualian
 - Ketika kode di bawah dijalankan, menghasilkan hasil sebagai berikut:
 
-![gambar](gambar/6.png)
+![gambar](gambar/8.png)
 
 #### Contoh Raising an Exception
 
